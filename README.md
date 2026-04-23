@@ -14,4 +14,6 @@ Analisar dados de gênero e etnia no mercado de tecnologia.
 - Looker Studio
 
 ##Preview
-(![Dashboard](imagens/dashboard.png))
+![Dashboard 1](images/dashboard1.png)
+![Dashboard 2](images/dashboard2.png)
+![Dashboard 3](images/dashboard3.png)
